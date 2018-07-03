@@ -1,5 +1,9 @@
 # jsonServer
 
+## LINK
+
+> [JSON SERVER](https://my-json-server.typicode.com/murilofelpeto/jsonServer/).
+
 ## HOW TO USE
 
 * GET	/posts 
